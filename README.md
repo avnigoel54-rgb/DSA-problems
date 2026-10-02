@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
+| [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
