@@ -2,6 +2,7 @@ class Solution {
 public:
     string s="";
     int t=s.size();
+    int open=0;
     vector<string> ans;
     bool isValid(string s) {
         stack<char> st;
@@ -16,16 +17,16 @@ public:
         if(st.empty()) return true;
         return false;
     }
-    void solve(string s,int curr,int n){
+    void solve(string s,int curr,int n,int open){
         if(curr==2*n){
             if(isValid(s)) ans.push_back(s);
             return ;
         }
-        solve(s+"(",curr+1,n);
-        solve(s+")",curr+1,n);
+        if(open<n) solve(s+"(",curr+1,n,open+1);
+        if(curr - open < open) solve(s+")",curr+1,n,open);
     }
     vector<string> generateParenthesis(int n) {
-        solve(s,t,n);
+        solve(s,t,n,open);
         return ans;
     }
 };
