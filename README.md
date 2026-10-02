@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,5 +46,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
