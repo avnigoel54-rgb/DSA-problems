@@ -6,15 +6,18 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +42,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
