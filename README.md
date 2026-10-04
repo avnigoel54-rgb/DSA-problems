@@ -7,17 +7,20 @@
 | [0020-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,4 +64,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
