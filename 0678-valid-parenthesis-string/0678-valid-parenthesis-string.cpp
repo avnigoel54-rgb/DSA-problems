@@ -1,25 +1,22 @@
 class Solution {
 public:
-    // basic recursion code tle - tc - O(3^n)
-    // so use memoization - tc - O(n^2)
-    int n;
-    int dp[101][101]; //2D dp array cuz 2 vars changing (i,open)
-    bool solve(int i,int open, string s){
-        if(open < 0) return false;
-        if(i==n) return !open;
-        if(dp[i][open]!=-1) return dp[i][open];
-        if(s[i]=='('){
-            return dp[i][open] = solve(i+1,open+1,s);
-        }
-        else if(s[i]=='*'){
-            return dp[i][open] = solve(i+1,open+1,s) || solve(i+1,open,s) || solve(i+1,open-1,s);
-        }
-        return dp[i][open] = solve(i+1,open-1,s);
-    }
     bool checkValidString(string s) {
-        n=s.size();
-        memset(dp,-1,sizeof(dp));
-        bool a=solve(0,0,s);
-        return a;
+        stack<int> st1;
+        stack<int> st2;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='(')st1.push(i);
+            else if(s[i]=='*') st2.push(i);
+            else if(!st1.empty() && s[i]==')') st1.pop();
+            else if(!st2.empty() && s[i]==')') st2.pop();
+            else return false;
+        }
+        while(!st1.empty()){
+            if(!st2.empty() && st1.top()<st2.top()){
+                st1.pop(); st2.pop();
+            }
+            else break;
+        }
+        if(st1.empty()) return true;
+        return false;
     }
 };
