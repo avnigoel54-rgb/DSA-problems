@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -77,4 +78,8 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
