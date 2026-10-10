@@ -43,6 +43,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1929-concatenation-of-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -51,12 +52,14 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,4 +99,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
