@@ -44,6 +44,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1929-concatenation-of-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
