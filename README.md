@@ -18,6 +18,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -108,4 +109,16 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2778-sum-of-squares-of-special-elements) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
