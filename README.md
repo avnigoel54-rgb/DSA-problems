@@ -140,4 +140,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
