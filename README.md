@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
@@ -95,6 +96,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
@@ -186,6 +188,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
