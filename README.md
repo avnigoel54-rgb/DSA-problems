@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -214,4 +217,8 @@
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
