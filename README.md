@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
@@ -71,6 +72,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
@@ -221,4 +223,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
