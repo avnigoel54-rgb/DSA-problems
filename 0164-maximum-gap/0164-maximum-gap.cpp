@@ -6,8 +6,9 @@ public:
         if(n<=1) return 0;
         int mn=*min_element(nums.begin(),nums.end());
         int mx=*max_element(nums.begin(),nums.end());
-        int bucket = max(1, (mx - mn + n - 2) / (n - 1)); //ceil value
-        
+        // BUCKET SORT
+        int bucket = max(1,int(ceil(double(mx - mn) / (n - 1)))); 
+
         // all buckets mx and mn values
         int cnt = (mx - mn) / bucket + 1;
         vector<int> maxi(n-1, -1);
