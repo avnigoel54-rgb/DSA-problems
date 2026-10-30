@@ -9,6 +9,7 @@
 | [0032-longest-valid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0301-remove-invalid-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
