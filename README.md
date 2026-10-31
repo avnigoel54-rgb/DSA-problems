@@ -11,6 +11,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -119,6 +120,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0504-base-7](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0504-base-7) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
