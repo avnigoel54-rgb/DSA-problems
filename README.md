@@ -48,6 +48,7 @@
 | [0414-third-maximum-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -119,6 +120,7 @@
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0504-base-7) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
