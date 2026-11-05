@@ -52,6 +52,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1929-concatenation-of-array) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -85,6 +87,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -170,6 +173,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
