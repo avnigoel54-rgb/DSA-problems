@@ -206,6 +206,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0098-validate-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -215,6 +216,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0098-validate-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -227,6 +229,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0098-validate-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
