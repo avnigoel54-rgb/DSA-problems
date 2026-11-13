@@ -128,6 +128,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0231-power-of-two) |
 ## Binary Indexed Tree
 |  |
 | ------- |
