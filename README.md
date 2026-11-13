@@ -126,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0231-power-of-two) |
