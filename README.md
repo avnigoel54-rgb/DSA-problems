@@ -52,6 +52,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -135,6 +136,7 @@
 | [0412-fizz-buzz](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0504-base-7) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -146,6 +148,7 @@
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0477-total-hamming-distance](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
