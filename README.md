@@ -56,6 +56,7 @@
 | [0477-total-hamming-distance](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1352-product-of-the-last-k-numbers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -140,6 +141,7 @@
 | [0477-total-hamming-distance](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0504-base-7) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1732-find-the-highest-altitude) |
 ## Breadth-First Search
@@ -280,4 +283,12 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
