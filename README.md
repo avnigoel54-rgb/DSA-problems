@@ -48,6 +48,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -81,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0436-find-right-interval) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -150,6 +152,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0645-set-mismatch) |
@@ -193,6 +196,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
@@ -263,6 +267,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -275,6 +280,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/avnigoel54-rgb/DSA-problems/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
